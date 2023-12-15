@@ -1,5 +1,4 @@
-### 
-Motivation 💡
+### Motivation 💡
 Adaptability is key in this ever-evolving world.
 
 Learning & Ambition 🚀
