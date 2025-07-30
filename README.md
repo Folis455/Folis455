@@ -2,4 +2,5 @@
 - Data Analysis
 - Python
 - MySQL
-Feel free to check my side projects!
+
+< Feel free to check my side projects! >
