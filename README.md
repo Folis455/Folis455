@@ -1,4 +1,4 @@
 ### Focused on:
-- Java
+- Data Analysis
 - Python
 - MySQL
