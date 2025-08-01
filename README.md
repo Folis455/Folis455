@@ -6,8 +6,11 @@ Currently studying **Data Analysis and doing my Bachelor's in Computer Science**
 
 ### Tech Stack
 **Data Analysis:** Python, SQL, Power BI and learning Qlik.
+
 **Web Development:** React, JavaScript, Node.js, Tailwind CSS, Python, Java, Springboot, Flask-SQLAlchemy.
-**Mobile App Development:** Kotlin, Android, AndroidStudio
+
+**Mobile App Development:** Kotlin, Android, AndroidStudio.
+
 **Others:** Scala, Cisco Packet Tracer, Linux, Unity, C#, Blender.
 
 ### 📈 Current Focus
